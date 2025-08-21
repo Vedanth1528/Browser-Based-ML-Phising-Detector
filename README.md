@@ -1,6 +1,6 @@
-# Threat Sleuth
+# Browser-Based-ML-Phising-Detector
 
-**Threat Sleuth** is a cutting-edge tool designed to keep you safe from phishing attempts, malicious URLs, and spam emails/messages. With an intuitive web interface and a handy browser extension, it provides robust protection and helps users report false positives to improve the detection system.
+This is a cutting-edge tool designed to keep you safe from phishing attempts, malicious URLs, and spam emails/messages. With an intuitive web interface and a handy browser extension, it provides robust protection and helps users report false positives to improve the detection system.
 
 ##  Features
 
@@ -62,5 +62,6 @@ For detailed guidelines on how to contribute, please refer to the [CONTRIBUTING.
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for more details
+
 
 
