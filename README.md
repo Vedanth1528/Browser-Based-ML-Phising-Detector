@@ -19,7 +19,7 @@ This is a cutting-edge tool designed to keep you safe from phishing attempts, ma
 
 ### 1. Clone the Repository
 ```bash
-git clone --recurse-submodules https://github.com/Aswinr24/ThreatSleuth.git
+git clone https://github.com/Vedanth1528/Browser-Based-ML-Phising-Detector
 ```
 
 Navigate to the project directory:
@@ -62,6 +62,7 @@ For detailed guidelines on how to contribute, please refer to the [CONTRIBUTING.
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for more details
+
 
 
 
